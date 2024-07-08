@@ -38,7 +38,7 @@ plugins:
   - jekyll-seo-tag
 
 # Google Analytics Tracking
-ga_tracking: G-Q1SY67VJV1 
+ga_tracking: G-HTFKKVJK6K
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 license_url: "http://creativecommons.org/licenses/by/4.0/"
 license_name: "Creative Commons Attribution 4.0 International License"
